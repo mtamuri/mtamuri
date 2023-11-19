@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [availability and histogram minitoring of websites](https://github.com/mtamuri/histogramOfWebsites)
 
-- 🌱 I’m currently learning **database and C#**
+- 🌱 I’m currently learning **python libraries, mainly requests.**
 
 - 👯 I’m looking to collaborate on [the project i stated above i.e. availability monitoring and histogram for websites.](https://github.com/mtamuri/histogramOfWebsites)
 
