@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👾👾👾, I'm Ammar</h1>
-<h3 align="center">A passionate frontend developer based in istanbul</h3>
+<h3 align="center">A curious frontend developer and an ENGINEER based in istanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtamuri&label=Profile%20views&color=0e75b6&style=flat" alt="mtamuri" /> </p>
 
-- 🔭 I’m currently working on [Inventory management system for two companies based located in Ethiopia.](https://github.com/MAHI-HAKIM/Inventory_Managment_Systems)
+- 🔭 I’m currently working on [availability and histogram minitoring of websites](https://github.com/mtamuri/histogramOfWebsites)
 
 - 🌱 I’m currently learning **database and C#**
 
-- 👯 I’m looking to collaborate on [the project i stated above i.e. Inventory management system](https://github.com/MAHI-HAKIM/Inventory_Managment_Systems)
+- 👯 I’m looking to collaborate on [the project i stated above i.e. availability monitoring and histogram for websites.](https://github.com/mtamuri/histogramOfWebsites)
 
 - 👨‍💻 All of my projects are available at [my github profile.](https://github.com/mtamuri)
 
