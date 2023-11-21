@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtamuri&label=Profile%20views&color=0e75b6&style=flat" alt="mtamuri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtamuri" alt="mtamuri" /></a> </p>
 
 - 🔭 I’m currently working on [histogram and availability monitor for websites.](https://github.com/mtamuri/histogramOfWebsites)
 
