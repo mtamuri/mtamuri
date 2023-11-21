@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtamuri&label=Profile%20views&color=0e75b6&style=flat" alt="mtamuri" /> </p>
 
-
 - 🔭 I’m currently working on [histogram and availability monitor for websites.](https://github.com/mtamuri/histogramOfWebsites)
 
 - 🌱 I’m currently learning **python requests and AI.**
