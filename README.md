@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [histogram and availability monitor for websites.](https://github.com/mtamuri/histogramOfWebsites)
 
-- 🌱 I’m currently learning **python requests and AI.**
+- 🌱 Currently learning **python requests and AI.**
 
-- 👯 I’m looking to collaborate on [the project i stated above if you would like to collaborate feel free to send me an email.](https://github.com/mtamuri/histogramOfWebsites)
+- 👯 Looking to collaborate on [the project i stated above if you would like to collaborate feel free to send me an email.](https://github.com/mtamuri/histogramOfWebsites)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mtamuri](https://github.com/mtamuri)
 
