@@ -9,7 +9,7 @@
 
 - 👯 Looking to collaborate on [the project i stated above if you would like to collaborate feel free to send me an email.](https://github.com/mtamuri/histogramOfWebsites)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mtamuri](https://github.com/mtamuri)
+- 👨‍💻 All of my projects are available at [https://github.com/mtamuri](https://ammarmt.tech/)
 
 - 📫 How to reach me **ammarmtofik@yahoo.com**
 
